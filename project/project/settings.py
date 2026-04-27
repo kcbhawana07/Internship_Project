@@ -48,7 +48,7 @@ INSTALLED_APPS = [
     'contact',
     'users',
 ]
-]
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
